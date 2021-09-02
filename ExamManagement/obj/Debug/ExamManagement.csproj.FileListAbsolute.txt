@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\ExamManagement\ExamManagement\bin\Debug\ExamManagement.exe.config
+C:\Users\ASUS\source\repos\ExamManagement\ExamManagement\bin\Debug\ExamManagement.exe
+C:\Users\ASUS\source\repos\ExamManagement\ExamManagement\bin\Debug\ExamManagement.pdb
+C:\Users\ASUS\source\repos\ExamManagement\ExamManagement\obj\Debug\ExamManagement.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ExamManagement\ExamManagement\obj\Debug\ExamManagement.Form1.resources
+C:\Users\ASUS\source\repos\ExamManagement\ExamManagement\obj\Debug\ExamManagement.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ExamManagement\ExamManagement\obj\Debug\ExamManagement.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ExamManagement\ExamManagement\obj\Debug\ExamManagement.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ExamManagement\ExamManagement\obj\Debug\ExamManagement.exe
+C:\Users\ASUS\source\repos\ExamManagement\ExamManagement\obj\Debug\ExamManagement.pdb
+C:\Users\ASUS\source\repos\ExamManagement\ExamManagement\obj\Debug\ExamManagement.Teacher.resources
+C:\Users\ASUS\source\repos\ExamManagement\ExamManagement\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\source\repos\ExamManagement\ExamManagement\obj\Debug\ExamManagement.TeacherUC.UCAddNewQuestion.resources
+C:\Users\ASUS\source\repos\ExamManagement\ExamManagement\obj\Debug\ExamManagement.csproj.CopyComplete
+C:\Users\ASUS\source\repos\ExamManagement\ExamManagement\obj\Debug\ExamManagement.TeacherUC.UCUpdateQuestion.resources
+C:\Users\ASUS\source\repos\ExamManagement\ExamManagement\obj\Debug\ExamManagement.TeacherUC.UCViewDeleteQuestion.resources
+C:\Users\ASUS\source\repos\ExamManagement\ExamManagement\obj\Debug\ExamManagement.Student.resources
